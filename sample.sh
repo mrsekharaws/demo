@@ -1,3 +1,3 @@
-date
+clear
 ls
 clear
